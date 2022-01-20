@@ -1,0 +1,10 @@
+.hide
+{
+    display: none;
+}
+
+.error
+{
+    font-size: 20px;
+    color: red;
+}
